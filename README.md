@@ -3,7 +3,10 @@ Hi 👋 My name is Nats
 Fullstack Developer
 -------------------
 
-I've been in the IT industry for 12+ years and has switch to software development 6 yrs ago. I'm currently working as a frontend developer using React JS.* 🌍  I'm based in the Philippines at the moment (I've been living in Dubai for 5 yrs before the pandemic and decided to go back to my home country for now)* ✉️  You can contact me at [nats.elayron@gmail.com](mailto:nats.elayron@gmail.com)* 🧠  I'm learning Serverless Framework
+I've been in the IT industry for 12+ years and has switch to software development 6 yrs ago. I'm currently working as a frontend developer using React JS.
+* 🌍  I'm based in the Philippines at the moment (I've been living in Dubai for 5 yrs before the pandemic and decided to go back to my home country for now)
+* ✉️  You can contact me at [nats.elayron@gmail.com](mailto:nats.elayron@gmail.com)
+* 🧠  I'm learning Serverless Framework
 
 ### Skills
 
