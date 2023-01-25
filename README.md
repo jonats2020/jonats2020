@@ -4,9 +4,9 @@ Software Developer
 ------------------
 
 I've been in the IT industry for 12+ years (6 yrs IT support and 6 yrs as a software dev). I'm currently working as a frontend developer using React JS.
-* 🌍  I'm based in the Philippines at the moment (I've been living in Dubai, UAE for 5 yrs before the pandemic and decided to go back to my home country for now)
-* ✉️  You can contact me at [nats.elayron@gmail.com](mailto:nats.elayron@gmail.com)
-* 🧠  I'm currently learning Serverless Framework
+* 🌍  I'm based in the Philippines at the moment (I've been living in Dubai, UAE for 5 yrs before the pandemic and decided to go back to my home country to be with my family)
+* ✉️  You can contact me at [natselayron@gmail.com](mailto:natselayron@gmail.com)
+* 🧠  I'm currently learning machine learning
 
 ### Skills
 
