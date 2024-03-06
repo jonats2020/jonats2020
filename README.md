@@ -29,10 +29,4 @@ Hello! I'm Jonathan (Nats) Elayron, a seasoned professional with a diverse skill
 
 💼 **Upwork Profile:** [Upwork Profile](https://www.upwork.com/freelancers/~01b650d81dbde8f427)
 
-## Availability
-
-🚀 Currently available for freelance work! Let's collaborate and turn your ideas into reality.
-
-Feel free to reach out for inquiries, collaborations, or just to say hello! I'm passionate about creating meaningful and efficient solutions to solve unique challenges.
-
 Looking forward to connecting with you! 😊
