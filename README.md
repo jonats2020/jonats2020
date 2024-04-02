@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Jonathan (Nats) Elayron, a seasoned professional with a diverse skill set in server administration and software development. I have been working in the IT industry for 13+ yrs, 6 years of hands-on experience in server administration and 7 years in software development, I have a proven track record of delivering reliable and efficient solutions.
+Hello! I'm Jonathan (Nats) Elayron, a seasoned IT professional with a diverse skill set in server administration and software development. I have been working in the IT industry for 13+ yrs, 6 years of hands-on experience in server administration and 7 years in software development, I have a proven track record of delivering reliable and efficient solutions.
 
 ## Skills
 
