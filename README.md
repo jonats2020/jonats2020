@@ -25,8 +25,10 @@ Hello! I'm Nats, a seasoned IT professional with 13 years' experience, split bet
 
 ## Contact Information
 
-📧 **Email:** [natselayron@gmail.com](mailto:natselayron@gmail.com)
+**Email:** [natselayron@gmail.com](mailto:natselayron@gmail.com)
 
-💼 **Upwork Profile:** [Upwork Profile](https://www.upwork.com/freelancers/~01b650d81dbde8f427)
+**Website:** [natsdevstudio.com](https://www.natsdevstudio.com)
+
+**Upwork Profile:** [Upwork Profile](https://www.upwork.com/freelancers/~01b650d81dbde8f427)
 
 Looking forward to connecting with you! 😊
