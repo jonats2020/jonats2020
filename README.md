@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Nats, a seasoned IT professional with 13 years' experience, split between 6 years in server and workstation administration and 7 years in software development. Worked in the Philippines for 5 years, followed by 5 years in Dubai UAE, and currently based in the Philippines.
+Hello! I'm Nats, a seasoned IT professional with 14 years experience, split between 7 years in server and workstation administration and 7 years in software development. Worked in the Philippines for 5 years, followed by 5 years in Dubai UAE, and currently based in the Philippines.
 
 ## Skills
 
