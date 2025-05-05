@@ -27,7 +27,7 @@ Hello! I'm Nats, a seasoned IT professional with 14 years experience, split betw
 
 **Email:** [natselayron@gmail.com](mailto:natselayron@gmail.com)
 
-**Website:** [natsdevstudio.com](https://www.natsdevstudio.com)
+**Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/nats-e-b7844234)
 
 **Upwork Profile:** [Upwork Profile](https://www.upwork.com/freelancers/~01b650d81dbde8f427)
 
