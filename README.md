@@ -31,4 +31,6 @@ Hello! I'm Nats, a seasoned IT professional with 14 years experience, split betw
 
 **Upwork Profile:** [Upwork Profile](https://www.upwork.com/freelancers/~01b650d81dbde8f427)
 
+**Portfolio:** [Personal Portfolio](https://jonats2020.github.io)
+
 Looking forward to connecting with you! 😊
