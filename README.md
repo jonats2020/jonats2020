@@ -1,36 +1,38 @@
 # Welcome to My GitHub Profile! 👋
-
 ## About Me
 
-Hello! I'm Nats, a seasoned IT professional with 14 years experience, split between 7 years in server and workstation administration and 7 years in software development. Worked in the Philippines for 5 years, followed by 5 years in Dubai UAE, and currently based in the Philippines.
+Hi, I’m Nats — a software developer with 15 years of IT experience in system administration and application development. I now focus on partnering with remote clients in the USA and Australia, helping businesses build, optimize, and maintain modern, scalable software solutions.
 
-## Skills
+## Services
 
-- **Server Administration:** 6+ years of managing and maintaining servers, ensuring optimal performance, security, and scalability.
-- **Software Development:** 7+ years of expertise in software development, covering a range of languages and technologies.
+- Custom Software Development – End-to-end solutions tailored to your business needs
 
-### React Development
+- Frontend Development – Responsive, user-friendly applications with React.js
 
-- **React.js:** Developed interactive user interfaces using React for web applications.
-- **Redux:** Managed state efficiently using Redux for state management in React applications.
-- **React Router:** Implemented client-side routing in React applications using React Router.
-- **Styled Components:** Styled React components with Styled Components for a more maintainable and scalable codebase.
+- API Integration & Backend Support – Seamless system connectivity
 
-### Additional Skills
+- Testing & Quality Assurance – Unit, integration, and end-to-end testing for reliability
 
-- **Git:** Utilized Git for version control and collaborated on team projects.
-- **Webpack:** Configured Webpack to bundle and optimize React applications.
-- **Jest and Enzyme:** Implemented unit and integration tests for React components using Jest and Enzyme.
-- **Cypress:** Conducted end-to-end testing for React applications using Cypress.
+- Server & Application Maintenance – Secure and optimized infrastructure
 
-## Contact Information
+## Tech Stack
 
-**Email:** [natselayron@gmail.com](mailto:natselayron@gmail.com)
+- Frontend: React.js, Redux, React Router, Styled Components
 
-**Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/nats-e-b7844234)
+- Testing: Jest, Enzyme, Cypress
 
-**Upwork Profile:** [Upwork Profile](https://www.upwork.com/freelancers/~01b650d81dbde8f427)
+- Build Tools: Webpack
 
-**Portfolio:** [Personal Portfolio](https://jonats2020.github.io)
+- Version Control: Git
 
-Looking forward to connecting with you! 😊
+- Systems: Server setup, monitoring, optimization
+
+## Let’s Work Together
+
+If you’re looking to hire a reliable Filipino developer or a dedicated team to support your projects, I’d love to connect. I collaborate remotely with businesses to deliver solutions that are efficient, maintainable, and built for scale.
+
+📧 Email: nats@natsdevstudio.com
+
+🔗 LinkedIn: [Link](https://www.linkedin.com/in/jonathan-e-b7844234/)
+
+💼 Upwork: [Link](https://www.upwork.com/freelancers/~01b650d81dbde8f427)
