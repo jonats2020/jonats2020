@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 ## About Me
 
-Hi, I’m Nats — a software developer with 15 years of IT experience in system administration and application development. I now focus on partnering with remote clients in the USA and Australia, helping businesses build, optimize, and maintain modern, scalable software solutions.
+Hi, I’m Nats, a software developer with 15 years of IT experience in system administration and software development. I now focus on partnering with remote clients in the USA and Australia, helping businesses build, optimize, and maintain modern, scalable software solutions.
 
 ## Services
 
@@ -17,9 +17,9 @@ Hi, I’m Nats — a software developer with 15 years of IT experience in system
 
 ## Tech Stack
 
-- Frontend: React.js, Redux, React Router, Styled Components
+- Frontend: React.js, React Native, Expo, Tailwind CSS, Material UI, Styled Components
 
-- Testing: Jest, Enzyme, Cypress
+- Testing: Jest, Enzyme, Cypress, Maestro
 
 - Build Tools: Webpack
 
